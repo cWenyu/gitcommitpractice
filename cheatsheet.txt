@@ -1,0 +1,5 @@
+amend push to exit commit
+
+git commit --amend 
+
+git push origin HEAD:<branch_name> -f
